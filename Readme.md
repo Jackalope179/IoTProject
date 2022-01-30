@@ -1,6 +1,5 @@
 <ol>
     <li> Temperature and humidity is randomized </li>
-
     <li>
         <ol>
             <li> The range of temperature's value is between 30 and 100 </li>
